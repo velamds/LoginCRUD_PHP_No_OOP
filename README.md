@@ -1,7 +1,7 @@
 # LoginCRUD_PHP_No_OOP
 Login and CRUD in PHP without Object Oriented Programming
 
-This is the database
+This is the database `MySQL`
 
 CREATE DATABASE misfinanzas;
 USE misfinanzas;
